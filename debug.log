@@ -1,0 +1,89 @@
+2016-01-12 02:39:04,573 DEBUG Main [main] main PianoPlayer Component 
+2016-01-12 02:39:05,315 DEBUG Main [main] main All classes:  
+2016-01-12 02:39:05,378 DEBUG Main [main] main Annotated classes:  
+2016-01-12 02:39:05,407 DEBUG Main [main] main FootballPlayer 
+2016-01-12 02:39:05,408 DEBUG Main [main] main PianoPlayer 
+2016-01-12 02:39:41,865 DEBUG Main [main] main PianoPlayer Component 
+2016-01-12 02:39:42,594 DEBUG Main [main] main All classes:  
+2016-01-12 02:39:42,648 DEBUG Main [main] main Annotated classes:  
+2016-01-12 02:39:42,672 DEBUG Main [main] main FootballPlayer 
+2016-01-12 02:39:42,673 DEBUG Main [main] main PianoPlayer 
+2016-01-12 02:41:08,936 DEBUG Main [main] main PianoPlayer Component 
+2016-01-12 02:41:09,660 DEBUG Main [main] main All classes:  
+2016-01-12 02:41:09,730 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 02:41:09,731 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 02:41:09,731 DEBUG Main [main] main Annotated classes:  
+2016-01-12 02:41:09,754 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 02:41:09,755 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 02:43:09,944 DEBUG Main [main] main PianoPlayer Component 
+2016-01-12 02:43:10,678 DEBUG Main [main] main All classes:  
+2016-01-12 02:43:10,725 DEBUG Main [main] main Annotated classes:  
+2016-01-12 02:43:10,748 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 02:43:10,749 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 02:43:55,810 DEBUG Main [main] main PianoPlayer Component 
+2016-01-12 02:43:56,545 DEBUG Main [main] main All classes:  
+2016-01-12 02:43:56,600 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 02:43:56,601 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 02:43:56,602 DEBUG Main [main] main Annotated classes:  
+2016-01-12 02:43:56,621 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 02:43:56,622 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 02:49:00,136 DEBUG Main [main] main PianoPlayer Component 
+2016-01-12 02:49:00,834 DEBUG Main [main] main All Person classes:  
+2016-01-12 02:49:00,893 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 02:49:00,893 DEBUG Main [main] main 	Pilot 
+2016-01-12 02:49:00,894 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 02:49:00,896 DEBUG Main [main] main Annotated classes:  
+2016-01-12 02:49:00,925 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 02:49:00,925 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 03:10:23,377 DEBUG Main [main] main PianoPlayer Component 
+2016-01-12 03:10:24,172 DEBUG Main [main] main All Person classes:  
+2016-01-12 03:10:24,238 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 03:10:24,239 DEBUG Main [main] main 	Pilot 
+2016-01-12 03:10:24,242 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 03:10:24,244 DEBUG Main [main] main Annotated classes:  
+2016-01-12 03:10:24,268 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 03:10:24,272 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 03:10:24,273 DEBUG Main [main] main Person map contains:  
+2016-01-12 03:10:24,313 DEBUG Main [main] main Pilot false 
+2016-01-12 03:10:24,316 DEBUG Main [main] main FootballPlayer false 
+2016-01-12 03:10:24,316 DEBUG Main [main] main PianoPlayer false 
+2016-01-12 03:10:52,966 DEBUG Main [main] main PianoPlayer Component 
+2016-01-12 03:10:53,875 DEBUG Main [main] main All Person classes:  
+2016-01-12 03:10:53,941 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 03:10:53,942 DEBUG Main [main] main 	Pilot 
+2016-01-12 03:10:53,943 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 03:10:53,945 DEBUG Main [main] main Annotated classes:  
+2016-01-12 03:10:53,977 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 03:10:53,978 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 03:10:53,979 DEBUG Main [main] main Person map contains:  
+2016-01-12 03:10:53,980 DEBUG Main [main] main 	Pilot false 
+2016-01-12 03:10:53,982 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-12 03:10:53,983 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-12 03:15:16,404 DEBUG Main [main] main PianoPlayer Component 
+2016-01-12 03:15:17,223 DEBUG Main [main] main All Person classes:  
+2016-01-12 03:15:17,328 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 03:15:17,329 DEBUG Main [main] main 	Pilot 
+2016-01-12 03:15:17,331 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 03:15:17,332 DEBUG Main [main] main Annotated classes:  
+2016-01-12 03:15:17,362 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 03:15:17,363 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 03:15:17,364 DEBUG Main [main] main Person map contains:  
+2016-01-12 03:15:17,365 DEBUG Main [main] main 	Pilot false 
+2016-01-12 03:15:17,366 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-12 03:15:17,367 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-12 03:16:31,457 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-12 03:16:31,478 DEBUG Main [main] main PianoPlayer Component 
+2016-01-12 03:16:32,366 DEBUG Main [main] main All Person classes:  
+2016-01-12 03:16:32,458 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 03:16:32,460 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-12 03:16:32,462 DEBUG Main [main] main 	Pilot 
+2016-01-12 03:16:32,463 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-12 03:16:32,465 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 03:16:32,466 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-12 03:16:32,467 DEBUG Main [main] main Annotated classes:  
+2016-01-12 03:16:32,512 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 03:16:32,513 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 03:16:32,514 DEBUG Main [main] main Person map contains:  
+2016-01-12 03:16:32,517 DEBUG Main [main] main 	Pilot false 
+2016-01-12 03:16:32,518 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-12 03:16:32,518 DEBUG Main [main] main 	PianoPlayer false 
