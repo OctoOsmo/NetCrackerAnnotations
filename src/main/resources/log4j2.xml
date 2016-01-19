@@ -18,7 +18,8 @@
         </File>
         <Console name="STDOUT" target="SYSTEM_OUT">
             <PatternLayout>
-                <Pattern>[%file:%line] %c{1.} %M ~~~ %m %ex%n</Pattern>
+                <!--<Pattern>[%file:%line] %c{1.} %M ~~~ %m %ex%n</Pattern>-->
+                <Pattern>%m %ex%n</Pattern>
             </PatternLayout>
         </Console>
     </Appenders>

@@ -87,3 +87,822 @@
 2016-01-12 03:16:32,517 DEBUG Main [main] main 	Pilot false 
 2016-01-12 03:16:32,518 DEBUG Main [main] main 	FootballPlayer false 
 2016-01-12 03:16:32,518 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-12 23:57:29,657 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-12 23:57:29,677 DEBUG Main [main] main PianoPlayer Component 
+2016-01-12 23:57:30,510 DEBUG Main [main] main All Person classes:  
+2016-01-12 23:57:30,601 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 23:57:30,602 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-12 23:57:30,603 DEBUG Main [main] main 	Pilot 
+2016-01-12 23:57:30,604 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-12 23:57:30,608 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 23:57:30,609 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-12 23:57:30,610 DEBUG Main [main] main Annotated classes:  
+2016-01-12 23:57:30,625 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 23:57:30,625 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 23:57:30,626 DEBUG Main [main] main Person map contains:  
+2016-01-12 23:57:30,626 DEBUG Main [main] main 	Pilot false 
+2016-01-12 23:57:30,627 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-12 23:57:30,627 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-12 23:57:44,384 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-12 23:57:44,395 DEBUG Main [main] main PianoPlayer Component 
+2016-01-12 23:57:45,395 DEBUG Main [main] main All Person classes:  
+2016-01-12 23:57:45,600 DEBUG Main [main] main 	Pilot 
+2016-01-12 23:57:45,601 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-12 23:57:45,602 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 23:57:45,603 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-12 23:57:45,604 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 23:57:45,604 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-12 23:57:45,605 DEBUG Main [main] main Annotated classes:  
+2016-01-12 23:57:45,630 DEBUG Main [main] main 	FootballPlayer 
+2016-01-12 23:57:45,631 DEBUG Main [main] main 	PianoPlayer 
+2016-01-12 23:57:45,631 DEBUG Main [main] main Person map contains:  
+2016-01-12 23:58:41,612 DEBUG Main [main] main 	Pilot false 
+2016-01-13 00:00:50,426 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 00:00:50,510 DEBUG Main [main] main PianoPlayer Component 
+2016-01-13 00:00:51,487 DEBUG Main [main] main All Person classes:  
+2016-01-13 00:00:51,540 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 00:00:51,541 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 00:00:51,541 DEBUG Main [main] main 	Pilot 
+2016-01-13 00:00:51,542 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 00:00:51,543 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 00:00:51,544 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 00:00:51,569 DEBUG Main [main] main Annotated classes:  
+2016-01-13 00:00:51,601 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 00:00:51,602 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 00:00:51,603 DEBUG Main [main] main Person map contains:  
+2016-01-13 00:00:51,605 DEBUG Main [main] main 	Pilot false 
+2016-01-13 00:00:51,606 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 00:00:51,607 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 00:00:58,459 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 00:00:58,460 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:32:20,395 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:32:20,407 DEBUG Main [main] main PianoPlayer Component 
+2016-01-13 11:32:21,438 DEBUG Main [main] main All Person classes:  
+2016-01-13 11:32:21,520 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:32:21,521 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:32:21,522 DEBUG Main [main] main 	Pilot 
+2016-01-13 11:32:21,523 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:32:21,524 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:32:21,525 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:32:21,526 DEBUG Main [main] main Annotated classes:  
+2016-01-13 11:32:21,552 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:32:21,553 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:32:21,553 DEBUG Main [main] main Person map contains:  
+2016-01-13 11:32:21,554 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:32:21,555 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:32:21,558 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:44:24,148 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:44:24,156 DEBUG Main [main] main PianoPlayer Component 
+2016-01-13 11:44:24,799 DEBUG Main [main] main All Person classes:  
+2016-01-13 11:44:24,873 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:44:24,875 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:44:24,876 DEBUG Main [main] main 	Pilot 
+2016-01-13 11:44:24,877 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:44:24,877 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:44:24,878 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:44:24,880 DEBUG Main [main] main Annotated classes:  
+2016-01-13 11:44:24,919 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:44:24,920 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:44:24,921 DEBUG Main [main] main Person map contains:  
+2016-01-13 11:44:24,921 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:44:24,922 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:44:24,922 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:44:24,923 DEBUG Main [main] main MyMap 
+2016-01-13 11:44:24,925 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:44:24,926 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:44:24,927 DEBUG Main [main] main MyPersons map contains:  
+2016-01-13 11:44:24,927 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:44:24,928 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:44:24,931 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:47:03,890 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:47:03,901 DEBUG Main [main] main PianoPlayer Component 
+2016-01-13 11:47:04,423 DEBUG Main [main] main All Person classes:  
+2016-01-13 11:47:04,481 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:47:04,482 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:47:04,483 DEBUG Main [main] main 	Pilot 
+2016-01-13 11:47:04,484 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:47:04,484 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:47:04,485 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:47:04,486 DEBUG Main [main] main Annotated classes:  
+2016-01-13 11:47:04,505 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:47:04,506 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:47:04,507 DEBUG Main [main] main Person map contains:  
+2016-01-13 11:47:04,510 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:47:04,511 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:47:04,511 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:47:04,512 DEBUG Main [main] main MyMap 
+2016-01-13 11:47:04,514 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:47:04,514 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:47:04,515 DEBUG Main [main] main MyPersons map contains:  
+2016-01-13 11:47:04,515 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:47:04,516 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:47:04,519 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:48:38,626 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:48:38,635 DEBUG Main [main] main PianoPlayer Component 
+2016-01-13 11:48:39,196 DEBUG Main [main] main All Person classes:  
+2016-01-13 11:48:39,241 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:48:39,242 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:48:39,242 DEBUG Main [main] main 	Pilot 
+2016-01-13 11:48:39,243 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:48:39,243 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:48:39,244 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:48:39,245 DEBUG Main [main] main Annotated classes:  
+2016-01-13 11:48:39,276 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:48:39,276 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:48:39,277 DEBUG Main [main] main Person map contains:  
+2016-01-13 11:48:39,279 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:48:39,280 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:48:39,281 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:48:39,281 DEBUG Main [main] main MyMap 
+2016-01-13 11:48:39,283 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:48:39,284 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:48:39,284 DEBUG Main [main] main MyPersons map contains:  
+2016-01-13 11:48:39,285 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:48:39,287 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:48:39,290 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:50:05,883 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:50:05,897 DEBUG Main [main] main PianoPlayer Component 
+2016-01-13 11:50:06,394 DEBUG Main [main] main All Person classes:  
+2016-01-13 11:50:06,445 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:50:06,446 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:50:06,447 DEBUG Main [main] main 	Pilot 
+2016-01-13 11:50:06,448 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:50:06,448 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:50:06,449 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:50:06,450 DEBUG Main [main] main Annotated classes:  
+2016-01-13 11:50:06,477 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:50:06,479 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:50:06,480 DEBUG Main [main] main Person map contains:  
+2016-01-13 11:50:06,481 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:50:06,482 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:50:06,486 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:50:06,487 DEBUG Main [main] main MyMap 
+2016-01-13 11:50:06,495 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:50:06,495 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:50:06,497 DEBUG Main [main] main MyPersons map contains:  
+2016-01-13 11:50:06,506 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:50:06,506 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:50:06,510 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:51:26,106 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:51:26,115 DEBUG Main [main] main PianoPlayer Component 
+2016-01-13 11:51:26,625 DEBUG Main [main] main All Person classes:  
+2016-01-13 11:51:26,702 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:51:26,705 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:51:26,706 DEBUG Main [main] main 	Pilot 
+2016-01-13 11:51:26,707 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:51:26,708 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:51:26,708 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:51:26,709 DEBUG Main [main] main Annotated classes:  
+2016-01-13 11:51:26,737 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:51:26,738 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:51:26,739 DEBUG Main [main] main Person map contains:  
+2016-01-13 11:51:26,739 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:51:26,740 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:51:26,740 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:51:26,741 DEBUG Main [main] main MyMap 
+2016-01-13 11:51:26,744 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:51:26,744 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:51:26,745 DEBUG Main [main] main MyPersons map contains:  
+2016-01-13 11:51:26,745 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:51:26,746 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:51:26,746 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:53:01,646 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:53:01,657 DEBUG Main [main] main PianoPlayer Component 
+2016-01-13 11:53:02,206 DEBUG Main [main] main All Person classes:  
+2016-01-13 11:53:02,265 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:53:02,266 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:53:02,267 DEBUG Main [main] main 	Pilot 
+2016-01-13 11:53:02,268 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:53:02,269 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:53:02,270 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:53:02,271 DEBUG Main [main] main Annotated classes:  
+2016-01-13 11:53:02,317 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:53:02,318 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:53:02,324 DEBUG Main [main] main Person map contains:  
+2016-01-13 11:53:02,325 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:53:02,326 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:53:02,334 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:53:02,334 DEBUG Main [main] main MyMap 
+2016-01-13 11:53:02,337 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:53:02,338 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:53:02,338 DEBUG Main [main] main MyPersons map contains:  
+2016-01-13 11:53:02,339 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:53:02,340 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:53:02,344 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:56:54,450 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:56:54,459 DEBUG Main [main] main PianoPlayer Component 
+2016-01-13 11:56:55,117 DEBUG Main [main] main All Person classes:  
+2016-01-13 11:56:55,172 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:56:55,173 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:56:55,174 DEBUG Main [main] main 	Pilot 
+2016-01-13 11:56:55,175 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:56:55,176 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:56:55,176 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:56:55,177 DEBUG Main [main] main Annotated classes:  
+2016-01-13 11:56:55,195 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:56:55,196 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:56:55,196 DEBUG Main [main] main Person map contains:  
+2016-01-13 11:56:55,197 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:56:55,197 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:56:55,198 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:56:55,198 DEBUG Main [main] main MyMap 
+2016-01-13 11:56:55,201 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:56:55,209 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:56:55,210 DEBUG Main [main] main MyPersons map contains:  
+2016-01-13 11:56:55,211 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:56:55,211 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:56:55,214 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:56:55,215 DEBUG Main [main] main Pilot init state : false 
+2016-01-13 11:57:26,659 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:57:26,668 DEBUG Main [main] main PianoPlayer Component 
+2016-01-13 11:57:27,315 DEBUG Main [main] main All Person classes:  
+2016-01-13 11:57:27,446 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:57:27,447 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:57:27,449 DEBUG Main [main] main 	Pilot 
+2016-01-13 11:57:27,450 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:57:27,451 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:57:27,452 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:57:27,453 DEBUG Main [main] main Annotated classes:  
+2016-01-13 11:57:27,478 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:57:27,478 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:57:27,479 DEBUG Main [main] main Person map contains:  
+2016-01-13 11:57:27,480 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:57:27,480 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:57:27,481 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:57:27,481 DEBUG Main [main] main MyMap 
+2016-01-13 11:57:27,483 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:57:27,485 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:57:27,485 DEBUG Main [main] main MyPersons map contains:  
+2016-01-13 11:57:27,486 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:57:27,486 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:57:27,487 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:57:27,487 DEBUG Main [main] main footballPlayer init state : false 
+2016-01-13 11:58:52,632 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:58:52,649 DEBUG Main [main] main PianoPlayer Component 
+2016-01-13 11:58:53,316 DEBUG Main [main] main All Person classes:  
+2016-01-13 11:58:53,474 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:58:53,476 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:58:53,477 DEBUG Main [main] main 	Pilot 
+2016-01-13 11:58:53,478 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:58:53,479 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:58:53,479 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:58:53,480 DEBUG Main [main] main Annotated classes:  
+2016-01-13 11:58:53,501 DEBUG Main [main] main 	FootballPlayer 
+2016-01-13 11:58:53,502 DEBUG Main [main] main 	PianoPlayer 
+2016-01-13 11:58:53,503 DEBUG Main [main] main Person map contains:  
+2016-01-13 11:58:53,505 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:58:53,506 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:58:53,506 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:58:53,507 DEBUG Main [main] main MyMap 
+2016-01-13 11:58:53,509 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:58:53,510 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-13 11:58:53,511 DEBUG Main [main] main MyPersons map contains:  
+2016-01-13 11:58:53,511 DEBUG Main [main] main 	Pilot false 
+2016-01-13 11:58:53,512 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-13 11:58:53,517 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-13 11:58:53,521 DEBUG Main [main] main footballPlayer init state : false 
+2016-01-13 11:58:53,522 DEBUG Main [main] main PianoPlayer init state : true 
+2016-01-14 16:09:44,713 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:09:44,726 DEBUG Main [main] main PianoPlayer Component 
+2016-01-14 16:09:46,042 DEBUG Main [main] main All Person classes:  
+2016-01-14 16:09:46,393 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:09:46,418 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:09:46,420 DEBUG Main [main] main 	Pilot 
+2016-01-14 16:09:46,421 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:09:46,426 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:09:46,427 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:09:46,429 DEBUG Main [main] main Annotated classes:  
+2016-01-14 16:09:46,466 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:09:46,467 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:09:46,468 DEBUG Main [main] main Person map contains:  
+2016-01-14 16:09:46,470 DEBUG Main [main] main 	Pilot false 
+2016-01-14 16:09:46,471 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-14 16:09:46,472 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-14 16:09:46,473 DEBUG Main [main] main MyMap 
+2016-01-14 16:09:46,477 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:09:46,478 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:09:46,479 DEBUG Main [main] main MyPersons map contains:  
+2016-01-14 16:09:46,480 DEBUG Main [main] main 	Pilot false 
+2016-01-14 16:09:46,480 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-14 16:09:46,481 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-14 16:09:46,483 DEBUG Main [main] main footballPlayer init state : false 
+2016-01-14 16:09:46,484 DEBUG Main [main] main PianoPlayer init state : true 
+2016-01-14 16:10:55,386 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:10:55,400 DEBUG Main [main] main PianoPlayer Component 
+2016-01-14 16:10:56,071 DEBUG Main [main] main All Person classes:  
+2016-01-14 16:10:56,148 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:10:56,149 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:10:56,151 DEBUG Main [main] main 	Pilot 
+2016-01-14 16:10:56,153 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:10:56,154 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:10:56,155 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:10:56,156 DEBUG Main [main] main Annotated classes:  
+2016-01-14 16:10:56,201 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:10:56,202 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:10:56,203 DEBUG Main [main] main Person map contains:  
+2016-01-14 16:10:56,204 DEBUG Main [main] main 	Pilot false 
+2016-01-14 16:10:56,205 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-14 16:10:56,205 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-14 16:10:56,206 DEBUG Main [main] main MyMap 
+2016-01-14 16:10:56,209 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:10:56,336 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:10:56,347 DEBUG Main [main] main MyPersons map contains:  
+2016-01-14 16:10:56,351 DEBUG Main [main] main 	Pilot false 
+2016-01-14 16:10:56,352 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-14 16:10:56,370 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-14 16:10:56,373 DEBUG Main [main] main footballPlayer init state : false 
+2016-01-14 16:10:56,375 DEBUG Main [main] main PianoPlayer init state : true 
+2016-01-14 16:18:51,912 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:18:51,924 DEBUG Main [main] main PianoPlayer Component 
+2016-01-14 16:18:52,582 DEBUG Main [main] main All Person classes:  
+2016-01-14 16:18:52,647 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:18:52,648 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:18:52,649 DEBUG Main [main] main 	Pilot 
+2016-01-14 16:18:52,650 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:18:52,651 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:18:52,652 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:18:52,653 DEBUG Main [main] main Annotated classes:  
+2016-01-14 16:18:52,681 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:18:52,682 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:18:52,683 DEBUG Main [main] main Person map contains:  
+2016-01-14 16:18:52,690 DEBUG Main [main] main 	Pilot false 
+2016-01-14 16:18:52,691 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-14 16:18:52,697 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-14 16:18:52,698 DEBUG Main [main] main MyMap 
+2016-01-14 16:18:52,705 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:18:52,706 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:18:52,707 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:18:52,708 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:18:52,708 DEBUG Main [main] main MyPersons map contains:  
+2016-01-14 16:18:52,710 DEBUG Main [main] main 	Pilot false 
+2016-01-14 16:18:52,711 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-14 16:18:52,712 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-14 16:18:52,713 DEBUG Main [main] main footballPlayer init state : false 
+2016-01-14 16:18:52,713 DEBUG Main [main] main PianoPlayer init state : true 
+2016-01-14 16:21:18,188 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:21:18,203 DEBUG Main [main] main PianoPlayer Component 
+2016-01-14 16:21:18,891 DEBUG Main [main] main All Person classes:  
+2016-01-14 16:21:18,956 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:21:18,957 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:21:18,959 DEBUG Main [main] main 	Pilot 
+2016-01-14 16:21:18,960 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:21:18,962 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:21:18,964 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:21:18,965 DEBUG Main [main] main Annotated classes:  
+2016-01-14 16:21:18,988 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:21:18,989 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:21:18,991 DEBUG Main [main] main Person map contains:  
+2016-01-14 16:21:18,993 DEBUG Main [main] main 	Pilot false 
+2016-01-14 16:21:18,993 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-14 16:21:18,994 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-14 16:21:18,995 DEBUG Main [main] main MyMap 
+2016-01-14 16:21:19,004 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:21:19,005 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:21:19,006 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:21:19,007 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:21:19,011 DEBUG Main [main] main MyPersons map contains:  
+2016-01-14 16:21:19,015 DEBUG Main [main] main 	Pilot false 
+2016-01-14 16:21:19,016 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-14 16:21:19,017 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-14 16:21:19,018 DEBUG Main [main] main footballPlayer init state : false 
+2016-01-14 16:21:19,019 DEBUG Main [main] main PianoPlayer init state : true 
+2016-01-14 16:21:40,512 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:21:40,525 DEBUG Main [main] main PianoPlayer Component 
+2016-01-14 16:21:41,223 DEBUG Main [main] main All Person classes:  
+2016-01-14 16:21:41,298 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:21:41,300 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:21:41,301 DEBUG Main [main] main 	Pilot 
+2016-01-14 16:21:41,304 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:21:41,305 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:21:41,306 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:21:41,307 DEBUG Main [main] main Annotated classes:  
+2016-01-14 16:21:41,353 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:21:41,354 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:21:41,355 DEBUG Main [main] main Person map contains:  
+2016-01-14 16:21:41,358 DEBUG Main [main] main 	Pilot false 
+2016-01-14 16:21:41,359 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-14 16:21:41,360 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-14 16:21:41,360 DEBUG Main [main] main MyMap 
+2016-01-14 16:21:41,364 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:21:41,365 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:21:41,366 DEBUG Main [main] main 	PianoPlayer 
+2016-01-14 16:21:41,367 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-14 16:21:41,368 DEBUG Main [main] main MyPersons map contains:  
+2016-01-14 16:21:41,372 DEBUG Main [main] main 	Pilot false 
+2016-01-14 16:21:41,373 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-14 16:21:41,377 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-14 16:21:41,378 DEBUG Main [main] main footballPlayer init state : false 
+2016-01-14 16:21:41,378 DEBUG Main [main] main PianoPlayer init state : true 
+2016-01-14 16:21:41,379 DEBUG Main [main] main Annotated classes 2:  
+2016-01-14 16:21:41,380 DEBUG Main [main] main 	FootballPlayer 
+2016-01-14 16:21:41,380 DEBUG Main [main] main 	PianoPlayer 
+2016-01-18 23:41:07,414 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-18 23:41:07,428 DEBUG Main [main] main PianoPlayer Component 
+2016-01-18 23:41:08,379 DEBUG Main [main] main All Person classes:  
+2016-01-18 23:41:08,489 DEBUG Main [main] main 	FootballPlayer 
+2016-01-18 23:41:08,490 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-18 23:41:08,491 DEBUG Main [main] main 	Pilot 
+2016-01-18 23:41:08,492 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-18 23:41:08,493 DEBUG Main [main] main 	PianoPlayer 
+2016-01-18 23:41:08,494 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-18 23:41:08,499 DEBUG Main [main] main Annotated classes:  
+2016-01-18 23:41:08,524 DEBUG Main [main] main 	FootballPlayer 
+2016-01-18 23:41:08,525 DEBUG Main [main] main 	PianoPlayer 
+2016-01-18 23:41:08,525 DEBUG Main [main] main Person map contains:  
+2016-01-18 23:41:08,526 DEBUG Main [main] main 	Pilot false 
+2016-01-18 23:41:08,527 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-18 23:41:08,528 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-18 23:41:08,529 DEBUG Main [main] main MyMap 
+2016-01-18 23:41:08,532 DEBUG Main [main] main 	FootballPlayer 
+2016-01-18 23:41:08,533 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-18 23:41:08,534 DEBUG Main [main] main 	PianoPlayer 
+2016-01-18 23:41:08,535 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-18 23:41:08,536 DEBUG Main [main] main MyPersons map contains:  
+2016-01-18 23:41:08,536 DEBUG Main [main] main 	Pilot false 
+2016-01-18 23:41:08,538 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-18 23:41:08,539 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-18 23:41:08,539 DEBUG Main [main] main footballPlayer init state : false 
+2016-01-18 23:41:08,540 DEBUG Main [main] main PianoPlayer init state : true 
+2016-01-18 23:50:03,558 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-18 23:50:03,573 DEBUG Main [main] main PianoPlayer Component 
+2016-01-18 23:50:04,459 DEBUG Main [main] main All Person classes:  
+2016-01-18 23:50:04,519 DEBUG Main [main] main 	PianoPlayer 
+2016-01-18 23:50:04,521 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-18 23:50:04,523 DEBUG Main [main] main 	Pilot 
+2016-01-18 23:50:04,524 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-18 23:50:04,525 DEBUG Main [main] main 	FootballPlayer 
+2016-01-18 23:50:04,526 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-18 23:50:04,527 DEBUG Main [main] main Annotated classes:  
+2016-01-18 23:50:04,549 DEBUG Main [main] main 	PianoPlayer 
+2016-01-18 23:50:04,551 DEBUG Main [main] main 	FootballPlayer 
+2016-01-18 23:50:04,551 DEBUG Main [main] main Person map contains:  
+2016-01-18 23:50:04,552 DEBUG Main [main] main 	Pilot false 
+2016-01-18 23:50:04,553 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-18 23:50:04,553 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 00:02:52,883 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:02:52,895 DEBUG Main [main] main PianoPlayer Component 
+2016-01-19 00:02:53,600 DEBUG Main [main] main All Person classes:  
+2016-01-19 00:02:53,668 DEBUG Main [main] main 	PianoPlayer 
+2016-01-19 00:02:53,669 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:02:53,670 DEBUG Main [main] main 	Pilot 
+2016-01-19 00:02:53,671 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:02:53,672 DEBUG Main [main] main 	FootballPlayer 
+2016-01-19 00:02:53,673 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:02:53,674 DEBUG Main [main] main Annotated classes:  
+2016-01-19 00:02:53,697 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:02:53,698 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:02:53,700 DEBUG Main [main] main annMap contains:  
+2016-01-19 00:02:53,701 DEBUG Main [main] main 	Pilot false 
+2016-01-19 00:02:53,703 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 00:02:53,704 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 00:02:53,704 DEBUG Main [main] main Person map contains:  
+2016-01-19 00:02:53,705 DEBUG Main [main] main 	Pilot false 
+2016-01-19 00:02:53,706 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 00:02:53,706 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 00:04:31,467 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:04:31,479 DEBUG Main [main] main PianoPlayer Component 
+2016-01-19 00:04:32,162 DEBUG Main [main] main All Person classes:  
+2016-01-19 00:04:32,233 DEBUG Main [main] main 	PianoPlayer 
+2016-01-19 00:04:32,234 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:04:32,236 DEBUG Main [main] main 	Pilot 
+2016-01-19 00:04:32,237 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:04:32,238 DEBUG Main [main] main 	FootballPlayer 
+2016-01-19 00:04:32,240 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:04:32,259 DEBUG Main [main] main Annotated classes:  
+2016-01-19 00:04:32,283 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:04:32,285 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:04:32,285 DEBUG Main [main] main annMap contains:  
+2016-01-19 00:04:32,286 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 00:04:32,288 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 00:04:32,289 DEBUG Main [main] main Person map contains:  
+2016-01-19 00:04:32,290 DEBUG Main [main] main 	Pilot false 
+2016-01-19 00:04:32,290 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 00:04:32,291 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 00:07:18,531 DEBUG Main [main] main Annotated classes:  
+2016-01-19 00:07:18,651 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:07:18,652 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:07:18,653 DEBUG Main [main] main annMap contains:  
+2016-01-19 00:07:18,654 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 00:07:18,655 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 00:08:41,985 DEBUG Main [main] main Annotated classes:  
+2016-01-19 00:08:42,103 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:08:42,105 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 00:08:42,106 DEBUG Main [main] main annMap contains:  
+2016-01-19 00:08:42,106 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 00:08:42,114 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:07:25,292 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:07:25,358 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:07:25,363 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:07:25,363 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:07:25,364 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:07:25,364 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:07:25,365 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:07:32,532 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:07:32,586 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:07:32,588 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:07:32,589 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:07:32,590 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:07:32,591 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:07:32,598 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:08:16,632 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:08:16,718 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:08:16,720 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:08:16,720 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:08:16,721 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:08:16,725 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:08:16,725 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:08:16,727 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:08:16,728 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:08:16,728 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:09:03,081 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:09:03,148 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:09:03,149 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:09:03,150 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:09:03,150 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:09:03,155 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:09:03,155 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:09:03,161 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:09:03,161 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:09:03,162 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:10:20,205 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:10:20,298 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:10:20,302 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:10:20,303 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:10:20,303 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:10:20,304 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:10:20,305 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:10:20,310 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:10:20,311 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:10:20,311 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:12:55,722 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:12:55,825 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:12:55,829 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:12:55,829 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:12:55,830 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:12:55,831 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:12:55,831 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:12:55,837 DEBUG Main [main] main 		ann present 
+2016-01-19 04:13:41,612 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:13:41,686 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:13:41,687 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:13:41,688 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:13:41,688 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:13:41,689 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:13:41,689 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:13:41,695 DEBUG Main [main] main 		ann present 
+2016-01-19 04:13:41,695 DEBUG Main [main] main 		ann present 
+2016-01-19 04:13:41,696 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:13:41,698 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:13:41,698 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:14:16,382 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:14:16,440 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:14:16,442 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:14:16,442 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:14:16,443 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:14:16,443 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:14:16,444 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:14:16,449 DEBUG Main [main] main 		ann present 
+2016-01-19 04:14:16,450 DEBUG Main [main] main 		 initiating 
+2016-01-19 04:14:16,451 DEBUG Main [main] main 		ann present 
+2016-01-19 04:14:16,451 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:14:16,452 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:14:16,453 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:15:03,909 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:15:04,025 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:15:04,027 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:15:04,027 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:15:04,028 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:15:04,031 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:15:04,032 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:15:04,037 DEBUG Main [main] main 		ann present 
+2016-01-19 04:15:04,038 DEBUG Main [main] main 		initiating 
+2016-01-19 04:15:04,040 DEBUG Main [main] main 		ann present 
+2016-01-19 04:15:04,042 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:15:04,043 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:15:04,043 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:15:19,618 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:15:19,675 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:15:19,677 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:15:19,688 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:15:19,688 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:15:19,689 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:15:19,690 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:15:19,697 DEBUG Main [main] main 		ann present 
+2016-01-19 04:15:19,697 DEBUG Main [main] main 			initiating 
+2016-01-19 04:15:19,698 DEBUG Main [main] main 		ann present 
+2016-01-19 04:15:19,699 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:15:19,699 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:15:19,700 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:16:38,021 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:16:38,088 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:16:38,089 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:16:38,090 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:16:38,090 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:16:38,091 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:16:38,091 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:16:38,097 DEBUG Main [main] main 		ann present 
+2016-01-19 04:16:38,098 DEBUG Main [main] main 			initiating 
+2016-01-19 04:16:38,100 DEBUG Main [main] main 		ann present 
+2016-01-19 04:16:38,101 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:16:38,101 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:16:38,102 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:18:31,226 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:18:31,302 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:18:31,303 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:18:31,304 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:18:31,304 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:18:31,305 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:18:31,305 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:18:31,312 DEBUG Main [main] main 		ann present 
+2016-01-19 04:18:31,312 DEBUG Main [main] main 			initiating 
+2016-01-19 04:18:31,315 DEBUG Main [main] main 		ann present 
+2016-01-19 04:18:31,317 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:18:31,318 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:18:31,318 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:19:36,609 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:19:36,664 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:19:36,665 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:19:36,666 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:19:59,086 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:19:59,143 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:19:59,145 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:19:59,145 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:19:59,146 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:19:59,147 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:19:59,148 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:19:59,156 DEBUG Main [main] main 		ann present 
+2016-01-19 04:19:59,157 DEBUG Main [main] main 			initiating 
+2016-01-19 04:19:59,160 DEBUG Main [main] main 		ann present 
+2016-01-19 04:19:59,162 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:19:59,162 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:19:59,163 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:20:55,031 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:20:55,101 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:20:55,105 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:20:55,106 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:20:55,106 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:20:55,108 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:20:55,108 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:20:55,113 DEBUG Main [main] main 		ann present 
+2016-01-19 04:20:55,114 DEBUG Main [main] main 			initiating 
+2016-01-19 04:20:55,118 DEBUG Main [main] main 		ann present 
+2016-01-19 04:20:55,119 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:20:55,119 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:20:55,121 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:21:55,682 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:21:55,764 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:21:55,767 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:21:55,768 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:21:55,769 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:21:55,770 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:21:55,773 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:21:55,789 DEBUG Main [main] main 		ann present 
+2016-01-19 04:21:55,790 DEBUG Main [main] main 			initiating 
+2016-01-19 04:21:55,811 DEBUG Main [main] main 		ann present 
+2016-01-19 04:21:55,813 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:21:55,813 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:21:55,814 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:23:14,320 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:23:14,386 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:23:14,387 DEBUG PianoPlayer [main] <init> PianoPlayer 
+2016-01-19 04:23:14,388 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:23:14,389 DEBUG FootballPlayer [main] <init> Football 
+2016-01-19 04:23:14,389 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:23:14,390 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:23:14,390 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:23:14,391 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:23:14,397 DEBUG Main [main] main 		ann present 
+2016-01-19 04:23:14,397 DEBUG Main [main] main 			initiating 
+2016-01-19 04:23:14,398 DEBUG Main [main] main 		ann present 
+2016-01-19 04:23:14,400 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:23:14,401 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:23:14,401 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:24:56,385 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:24:56,471 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:24:56,472 DEBUG PianoPlayer [main] <init> PianoPlayer 
+2016-01-19 04:24:56,473 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:24:56,473 DEBUG FootballPlayer [main] <init> Football 
+2016-01-19 04:24:56,474 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:24:56,475 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:24:56,476 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:24:56,477 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:24:56,482 DEBUG Main [main] main 		ann present 
+2016-01-19 04:24:56,485 DEBUG Main [main] main 			initiating 
+2016-01-19 04:24:56,487 DEBUG Main [main] main 		ann present 
+2016-01-19 04:24:56,488 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:24:56,490 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:24:56,490 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:28:08,776 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:28:08,831 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:28:08,832 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:28:08,833 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:28:08,834 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:28:08,834 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:28:08,835 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:28:08,835 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:28:08,836 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:28:08,841 DEBUG Main [main] main 		ann present 
+2016-01-19 04:28:08,842 DEBUG Main [main] main 			initiating 
+2016-01-19 04:28:08,844 DEBUG Main [main] main 		ann present 
+2016-01-19 04:28:08,845 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:28:08,847 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:28:08,847 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:29:53,465 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:29:53,545 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:29:53,553 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:29:53,554 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:29:53,555 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:29:53,558 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:29:53,559 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:29:53,560 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:29:53,560 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:29:53,567 DEBUG Main [main] main 		ann present 
+2016-01-19 04:29:53,568 DEBUG Main [main] main 			initiating 
+2016-01-19 04:29:53,570 DEBUG Main [main] main 		ann present 
+2016-01-19 04:29:53,571 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:29:53,574 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:29:53,574 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:30:48,967 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:30:49,056 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:30:49,057 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:30:49,058 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:30:49,058 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:30:49,059 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:30:49,060 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:30:49,060 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:30:49,061 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:30:49,066 DEBUG Main [main] main 		ann present 
+2016-01-19 04:30:49,067 DEBUG Main [main] main 			initiating 
+2016-01-19 04:30:49,067 DEBUG Main [main] main 		ann present 
+2016-01-19 04:30:49,068 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:30:49,068 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:30:49,069 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:34:05,771 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:34:05,910 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:34:05,912 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:34:05,913 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:34:05,914 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:34:05,914 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:34:05,915 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:34:05,916 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:34:05,916 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:34:05,943 DEBUG Main [main] main 		ann present 
+2016-01-19 04:34:05,946 DEBUG Main [main] main 			initiating 
+2016-01-19 04:34:05,947 DEBUG Main [main] main 		ann present 
+2016-01-19 04:34:05,948 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:34:05,948 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:34:05,949 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:43:51,962 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:43:52,066 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:43:52,070 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:43:52,071 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:43:52,071 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:43:52,072 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:43:52,073 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:43:52,074 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:43:52,075 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:43:52,081 DEBUG Main [main] main 		ann present 
+2016-01-19 04:43:52,082 DEBUG Main [main] main 			initiating 
+2016-01-19 04:43:52,083 DEBUG Main [main] main 		ann present 
+2016-01-19 04:43:52,084 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:43:52,084 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:43:52,085 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:43:52,086 DEBUG Main [main] main getting objects 
+2016-01-19 04:43:52,086 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:43:52,096 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-19 04:44:23,138 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:44:23,246 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:44:23,256 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:44:23,257 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:44:23,258 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:44:23,259 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:44:23,259 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:44:23,263 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:44:23,264 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:44:23,271 DEBUG Main [main] main 		ann present 
+2016-01-19 04:44:23,271 DEBUG Main [main] main 			initiating 
+2016-01-19 04:44:23,272 DEBUG Main [main] main 		ann present 
+2016-01-19 04:44:23,273 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:44:23,273 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:44:23,274 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:44:23,275 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-19 04:44:23,275 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:44:23,276 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-19 04:44:44,316 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:44:44,388 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:44:44,389 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:44:44,390 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:44:44,390 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:44:44,391 DEBUG Main [main] main annMap contains:  
+2016-01-19 04:44:44,392 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:44:44,392 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:44:44,393 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:44:44,400 DEBUG Main [main] main 		ann present 
+2016-01-19 04:44:44,401 DEBUG Main [main] main 			initiating 
+2016-01-19 04:44:44,402 DEBUG Main [main] main 		ann present 
+2016-01-19 04:44:44,402 DEBUG Main [main] main annMap contains (after):  
+2016-01-19 04:44:44,403 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:44:44,403 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:44:44,404 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-19 04:44:44,404 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:44:44,405 DEBUG Main [main] main 	PianoPlayer true 
