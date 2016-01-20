@@ -29,6 +29,7 @@ public class PianoPlayer extends Person {
     @Override
     @Initializer(lazy = true)
     public void init() {
+        log.debug("\t\tPiano player initializer");
         initFlag = true;
     }
 }

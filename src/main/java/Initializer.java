@@ -9,5 +9,5 @@ import java.lang.annotation.Target;
 @Target(value = ElementType.METHOD)
 @Retention(value = RetentionPolicy.RUNTIME)
 public @interface Initializer {
-    boolean lazy() default false;
+    boolean lazy();
 }

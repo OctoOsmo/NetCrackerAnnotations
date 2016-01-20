@@ -10,12 +10,13 @@ public class FootballPlayer extends Person {
     private final Logger log = LogManager.getLogger(FootballPlayer.class);
 
     {
-        log.debug("\tFootball");
+        log.debug("\tFootball player");
     }
 
     @Initializer(lazy = false)
     @Override
     public void init() {
+        log.debug("\t\tFootball player initializer");
         initFlag = true;
     }
 

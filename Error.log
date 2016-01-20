@@ -1,0 +1,6 @@
+[ComponentStorage.java:52] 2016-01-20 15:34:45,882 ERROR ComponentStorage [main] putPerson initialization errorClass ComponentStorage can not access a member of class Miner with modifiers "private" 
+[ComponentStorage.java:52] 2016-01-20 15:35:34,789 ERROR ComponentStorage [main] putPerson initialization errorClass ComponentStorage can not access a member of class Miner with modifiers "private" 
+[ComponentStorage.java:52] 2016-01-20 15:37:11,370 ERROR ComponentStorage [main] putPerson initialization errorClass ComponentStorage can not access a member of class Miner with modifiers "private" 
+[ComponentStorage.java:56] 2016-01-20 15:50:33,975 ERROR ComponentStorage [main] putPerson initialization errorClass ComponentStorage can not access a member of class Miner with modifiers "private" 
+[ComponentStorage.java:56] 2016-01-20 15:51:06,666 ERROR ComponentStorage [main] putPerson initialization errorClass ComponentStorage can not access a member of class Miner with modifiers "private" 
+[ComponentStorage.java:52] 2016-01-20 15:55:34,387 ERROR ComponentStorage [main] putPerson initialization errorClass ComponentStorage can not access a member of class Miner with modifiers "private" 

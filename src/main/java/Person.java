@@ -19,6 +19,7 @@ public abstract class Person {
     }
 
     public void init() {
+        log.debug("\t\t" + this.getClass() + "initializer");
         initFlag = true;
     }
 
