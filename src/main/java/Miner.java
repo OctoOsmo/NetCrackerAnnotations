@@ -24,7 +24,7 @@ public class Miner extends Person {
 
     @Initializer(lazy = true)
     private void initTwo(){
-        log.debug("\t\tMiner initializer 2");
+        log.debug("\t\tMiner initializer 2 (the private one)");
         initFlag2 = true;
     }
 

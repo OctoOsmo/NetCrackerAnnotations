@@ -2,7 +2,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.reflections.Reflections;
 
-import java.lang.reflect.Method;
 import java.util.*;
 
 /**
@@ -14,18 +13,18 @@ public class Main {
 
     public static void main(String[] args) {
         Reflections reflections = new Reflections("");
-        ComponentStorage persons = new ComponentStorage();
+        ComponentStorage storage = new ComponentStorage();
 
         log.debug("Filling map with annotated classes: ");
         Set<Class<?>> annotated = reflections.getTypesAnnotatedWith(Component.class);
         for (Class<?> ann : annotated) {
             try {
-                persons.putPerson(ann.getName(), (Person) ann.newInstance());
+                storage.putObject(ann.getName(), ann.newInstance());
             } catch (InstantiationException | IllegalAccessException e) {
                 log.error(e.getMessage());
             }
         }
 
-        persons.logContent();
+        storage.logPersons();
     }
 }

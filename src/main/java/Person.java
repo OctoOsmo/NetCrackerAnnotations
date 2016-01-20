@@ -9,7 +9,7 @@ public abstract class Person {
     private final Logger log = LogManager.getLogger(Person.class);
 
     {
-        log.debug("Person: новый экземпляр");
+        log.debug("Person: new instance");
     }
 
     protected boolean initFlag = false;

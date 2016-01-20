@@ -15,7 +15,7 @@ import java.util.Map;
 public class ComponentStorage {
     private static final Logger log = LogManager.getLogger(ComponentStorage.class);
 
-    private HashMap<String, Person> persons = new HashMap<>();
+    private HashMap<String, Object> objects = new HashMap<>();
 
     public static List<Method> getInitializers(final Class<?> type){
 
@@ -29,22 +29,25 @@ public class ComponentStorage {
         return inits;
     }
 
-    public void logContent(){
-        log.debug("Storage content:");
-        for (Map.Entry<String, Person> personEntry : persons.entrySet()) {
-            String key = personEntry.getKey();
-            Person val = getPerson(key);
-            log.debug("\t" + key + " is initialized: " + val.isInited());
+    public void logPersons(){
+        log.debug("\nStorage content (only persons):");
+        for (Map.Entry<String, Object> personEntry : objects.entrySet()) {
+            if (personEntry.getValue() instanceof Person){ // necessary to call isInited()
+                String key = personEntry.getKey();
+                Object val = getObject(key);
+                Person p = (Person) val;
+                log.debug("\t" + key + " is initialized: " + p.isInited());
+            }
         }
     }
 
-    private void initialize(List<Method> inits, Person person, boolean lazy){
+    private void initialize(List<Method> inits, Object obj, boolean lazy){
         for (Method m : inits) {
             if (lazy == m.getAnnotation(Initializer.class).lazy()) {
                 try {
                     if (!Modifier.isPublic(m.getModifiers()))
                         m.setAccessible(true);
-                    m.invoke(person);
+                    m.invoke(obj);
                 } catch (IllegalAccessException | InvocationTargetException e) {
                     log.error("initialization error" + e.getMessage());
                 }
@@ -52,16 +55,16 @@ public class ComponentStorage {
         }
     }
 
-    public void putPerson(String name, Person person){
-        List<Method> inits = getInitializers(person.getClass());
-        initialize(inits, person, false);
-        persons.put(name, person);
+    public void putObject(String name, Object obj){
+        List<Method> inits = getInitializers(obj.getClass());
+        initialize(inits, obj, false);
+        objects.put(name, obj);
     }
 
-    public Person getPerson(String name){
-        Person person = (Person) persons.get(name);
-        List<Method> inits = getInitializers(person.getClass());
-        initialize(inits, person, true);
-        return person;
+    public Object getObject(String name){
+        Object obj = objects.get(name);
+        List<Method> inits = getInitializers(obj.getClass());
+        initialize(inits, obj, true);
+        return obj;
     }
 }

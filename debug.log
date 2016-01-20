@@ -2348,3 +2348,149 @@
 2016-01-20 16:02:29,603 DEBUG ComponentStorage [main] logContent 	FootballPlayer is initialized: true 
 2016-01-20 16:02:29,605 DEBUG PianoPlayer [main] init 		Piano player initializer 
 2016-01-20 16:02:29,606 DEBUG ComponentStorage [main] logContent 	PianoPlayer is initialized: true 
+2016-01-20 16:06:45,739 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-20 16:06:45,888 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:06:45,889 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 16:06:45,901 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-20 16:06:45,902 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:06:45,904 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-20 16:06:45,905 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-20 16:06:45,907 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:06:45,908 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 16:06:45,910 DEBUG ComponentStorage [main] logContent Storage content: 
+2016-01-20 16:06:45,912 DEBUG Miner [main] initTwo 		Miner initializer 2 
+2016-01-20 16:06:45,913 DEBUG ComponentStorage [main] logContent 	Miner is initialized: true 
+2016-01-20 16:06:45,914 DEBUG ComponentStorage [main] logContent 	FootballPlayer is initialized: true 
+2016-01-20 16:06:45,915 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-20 16:06:45,915 DEBUG ComponentStorage [main] logContent 	PianoPlayer is initialized: true 
+2016-01-20 16:07:29,473 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-20 16:07:29,584 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:07:29,585 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 16:07:29,595 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-20 16:07:29,597 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:07:29,598 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-20 16:07:29,600 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-20 16:07:29,602 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:07:29,603 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 16:07:29,605 DEBUG ComponentStorage [main] logContent Storage content: 
+2016-01-20 16:07:29,606 DEBUG Miner [main] initTwo 		Miner initializer 2 
+2016-01-20 16:07:29,608 DEBUG ComponentStorage [main] logContent 	Miner is initialized: true 
+2016-01-20 16:07:29,608 DEBUG ComponentStorage [main] logContent 	FootballPlayer is initialized: true 
+2016-01-20 16:07:29,616 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-20 16:07:29,617 DEBUG ComponentStorage [main] logContent 	PianoPlayer is initialized: true 
+2016-01-20 16:12:14,023 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-20 16:12:14,135 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:12:14,137 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 16:12:14,146 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-20 16:12:14,147 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:12:14,148 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-20 16:12:14,151 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-20 16:12:14,152 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:12:14,154 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 16:12:14,156 DEBUG ComponentStorage [main] logContent Storage content: 
+2016-01-20 16:12:14,157 DEBUG Miner [main] initTwo 		Miner initializer 2 
+2016-01-20 16:12:14,159 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-20 16:12:36,421 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-20 16:12:36,553 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:12:36,554 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 16:12:36,565 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-20 16:12:36,567 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:12:36,585 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-20 16:12:36,592 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-20 16:12:36,593 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:12:36,594 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 16:12:36,596 DEBUG ComponentStorage [main] logContent Storage content: 
+2016-01-20 16:12:36,597 DEBUG Miner [main] initTwo 		Miner initializer 2 
+2016-01-20 16:12:36,598 DEBUG ComponentStorage [main] logContent 	Miner is initialized: true 
+2016-01-20 16:12:36,599 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-20 16:15:58,038 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-20 16:15:58,172 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:15:58,173 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 16:15:58,182 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-20 16:15:58,183 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:15:58,185 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-20 16:15:58,187 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-20 16:15:58,188 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:15:58,189 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 16:15:58,191 DEBUG ComponentStorage [main] logContent Storage content: 
+2016-01-20 16:15:58,193 DEBUG Miner [main] initTwo 		Miner initializer 2 
+2016-01-20 16:15:58,194 DEBUG ComponentStorage [main] logContent 	Miner is initialized: true 
+2016-01-20 16:15:58,194 DEBUG ComponentStorage [main] logContent 	FootballPlayer is initialized: true 
+2016-01-20 16:15:58,195 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-20 16:15:58,196 DEBUG ComponentStorage [main] logContent 	PianoPlayer is initialized: true 
+2016-01-20 16:16:42,573 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-20 16:16:42,667 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:16:42,669 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 16:16:42,678 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-20 16:16:42,679 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:16:42,680 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-20 16:16:42,687 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-20 16:16:42,689 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:16:42,690 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 16:16:42,694 DEBUG ComponentStorage [main] logPersons Storage content: 
+2016-01-20 16:16:42,695 DEBUG Miner [main] initTwo 		Miner initializer 2 
+2016-01-20 16:16:42,696 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-20 16:16:42,697 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-20 16:16:42,700 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-20 16:16:42,701 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-20 16:21:42,171 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-20 16:21:42,277 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:21:42,278 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 16:21:42,295 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-20 16:21:42,297 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:21:42,303 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-20 16:21:42,304 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-20 16:21:42,305 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:21:42,307 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 16:21:42,308 DEBUG ComponentStorage [main] logPersons Storage content (only persons): 
+2016-01-20 16:21:42,310 DEBUG Miner [main] initTwo 		Miner initializer 2 
+2016-01-20 16:21:42,311 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-20 16:21:42,312 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-20 16:21:42,313 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-20 16:21:42,314 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-20 16:24:32,055 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-20 16:24:32,228 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:24:32,230 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 16:24:32,240 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-20 16:24:32,241 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:24:32,242 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-20 16:24:32,244 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-20 16:24:32,246 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 16:24:32,247 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 16:24:32,248 DEBUG ComponentStorage [main] logPersons Storage content (only persons): 
+2016-01-20 16:24:32,252 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-20 16:24:32,254 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-20 16:24:32,254 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-20 16:24:32,255 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-20 16:24:32,256 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-20 16:25:08,030 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-20 16:25:08,134 DEBUG Person [main] <init> Person: new instance 
+2016-01-20 16:25:08,135 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 16:25:08,146 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-20 16:25:08,147 DEBUG Person [main] <init> Person: new instance 
+2016-01-20 16:25:08,149 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-20 16:25:08,157 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-20 16:25:08,160 DEBUG Person [main] <init> Person: new instance 
+2016-01-20 16:25:08,162 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 16:25:08,164 DEBUG ComponentStorage [main] logPersons Storage content (only persons): 
+2016-01-20 16:25:08,165 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-20 16:25:08,166 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-20 16:25:08,167 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-20 16:25:08,175 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-20 16:25:08,177 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-20 16:26:06,715 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-20 16:26:06,814 DEBUG Person [main] <init> Person: new instance 
+2016-01-20 16:26:06,815 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 16:26:06,824 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-20 16:26:06,826 DEBUG Person [main] <init> Person: new instance 
+2016-01-20 16:26:06,827 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-20 16:26:06,828 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-20 16:26:06,830 DEBUG Person [main] <init> Person: new instance 
+2016-01-20 16:26:06,831 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 16:26:06,832 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-20 16:26:06,833 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-20 16:26:06,834 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-20 16:26:06,835 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-20 16:26:06,836 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-20 16:26:06,837 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
