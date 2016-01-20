@@ -31,9 +31,4 @@ public class PianoPlayer extends Person {
     public void init() {
         initFlag = true;
     }
-
-    @Override
-    public boolean isInited() {
-        return initFlag;
-    }
 }

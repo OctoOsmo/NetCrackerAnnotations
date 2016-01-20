@@ -906,3 +906,328 @@
 2016-01-19 04:44:44,404 DEBUG Main [main] main getting objects and printing they init status 
 2016-01-19 04:44:44,404 DEBUG Main [main] main 	FootballPlayer true 
 2016-01-19 04:44:44,405 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-19 04:49:19,658 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:49:19,732 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:49:19,733 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:49:19,734 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:49:19,735 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:49:19,735 DEBUG Main [main] main annMap contains (before lazy initialization):  
+2016-01-19 04:49:19,736 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:49:19,737 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:49:19,738 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:49:19,743 DEBUG Main [main] main 		ann present 
+2016-01-19 04:49:19,744 DEBUG Main [main] main 			initiating 
+2016-01-19 04:49:19,746 DEBUG Main [main] main 		ann present 
+2016-01-19 04:49:19,746 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-19 04:49:19,747 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:49:19,748 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:49:19,760 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-19 04:49:19,760 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:49:19,761 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-19 04:50:23,655 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:50:23,744 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:50:23,745 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:50:23,746 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:50:23,754 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:50:23,757 DEBUG Main [main] main annMap contains (before lazy initialization):  
+2016-01-19 04:50:23,758 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:50:23,759 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:50:23,759 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:50:23,765 DEBUG Main [main] main 		ann present in FootballPlayer 
+2016-01-19 04:50:23,766 DEBUG Main [main] main 			initiating 
+2016-01-19 04:50:23,768 DEBUG Main [main] main 		ann present in PianoPlayer 
+2016-01-19 04:50:23,768 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-19 04:50:23,770 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:50:23,770 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:50:23,772 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-19 04:50:23,772 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:50:23,773 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-19 04:51:01,191 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:51:01,280 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:51:01,281 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:51:01,282 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:51:01,283 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:51:01,283 DEBUG Main [main] main annMap contains (before lazy initialization):  
+2016-01-19 04:51:01,284 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:51:01,284 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:51:01,285 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:51:01,290 DEBUG Main [main] main 		ann present in FootballPlayer 
+2016-01-19 04:51:01,291 DEBUG Main [main] main 			initiating FootballPlayer 
+2016-01-19 04:51:01,292 DEBUG Main [main] main 		ann present in PianoPlayer 
+2016-01-19 04:51:01,293 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-19 04:51:01,294 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:51:01,295 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:51:01,295 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-19 04:51:01,296 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:51:01,296 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-19 04:51:34,110 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:51:34,187 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:51:34,188 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:51:34,189 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:51:34,189 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:51:34,193 DEBUG Main [main] main annMap contains (before lazy initialization):  
+2016-01-19 04:51:34,193 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:51:34,195 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:51:34,196 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:51:34,201 DEBUG Main [main] main 		init annotation present in FootballPlayer 
+2016-01-19 04:51:34,202 DEBUG Main [main] main 			initiating FootballPlayer 
+2016-01-19 04:51:34,203 DEBUG Main [main] main 		init annotation present in PianoPlayer 
+2016-01-19 04:51:34,204 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-19 04:51:34,204 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:51:34,205 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:51:34,205 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-19 04:51:34,206 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:51:34,206 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-19 04:52:51,993 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:52:52,080 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:52:52,085 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:52:52,086 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:52:52,087 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:52:52,088 DEBUG Main [main] main annMap contains (before lazy initialization):  
+2016-01-19 04:52:52,088 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:52:52,089 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:52:52,089 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:52:52,095 DEBUG Main [main] main 		init annotation present in FootballPlayer 
+2016-01-19 04:52:52,096 DEBUG Main [main] main 			initiating FootballPlayer 
+2016-01-19 04:52:52,098 DEBUG Main [main] main 		init annotation present in PianoPlayer 
+2016-01-19 04:52:52,104 DEBUG Main [main] main but lazy marker is false 
+2016-01-19 04:52:52,105 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-19 04:52:52,106 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:52:52,106 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:52:52,107 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-19 04:52:52,107 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:52:52,108 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-19 04:53:05,684 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:53:05,742 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:53:05,743 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:53:05,744 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:53:05,745 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:53:05,745 DEBUG Main [main] main annMap contains (before lazy initialization):  
+2016-01-19 04:53:05,746 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:53:05,747 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:53:05,747 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:53:05,753 DEBUG Main [main] main 		init annotation present in FootballPlayer 
+2016-01-19 04:53:05,754 DEBUG Main [main] main 			initiating FootballPlayer 
+2016-01-19 04:53:05,756 DEBUG Main [main] main 		init annotation present in PianoPlayer 
+2016-01-19 04:53:05,757 DEBUG Main [main] main 		but lazy marker is false 
+2016-01-19 04:53:05,758 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-19 04:53:05,759 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:53:05,760 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:53:05,761 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-19 04:53:05,762 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:53:05,762 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-19 04:53:20,526 DEBUG Main [main] main Annotated classes:  
+2016-01-19 04:53:20,582 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:53:20,586 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-19 04:53:20,587 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-19 04:53:20,594 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-19 04:53:20,594 DEBUG Main [main] main annMap contains (before lazy initialization):  
+2016-01-19 04:53:20,596 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-19 04:53:20,606 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:53:20,607 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-19 04:53:20,613 DEBUG Main [main] main 		init annotation present in FootballPlayer 
+2016-01-19 04:53:20,614 DEBUG Main [main] main 			initiating FootballPlayer 
+2016-01-19 04:53:20,616 DEBUG Main [main] main 		init annotation present in PianoPlayer 
+2016-01-19 04:53:20,617 DEBUG Main [main] main 			but lazy marker is false 
+2016-01-19 04:53:20,618 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-19 04:53:20,618 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:53:20,619 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-19 04:53:20,619 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-19 04:53:20,620 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-19 04:53:20,620 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-20 11:03:38,207 DEBUG Main [main] main Annotated classes:  
+2016-01-20 11:03:38,422 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:03:38,424 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 11:03:38,425 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:03:38,450 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-20 11:03:38,451 DEBUG Main [main] main annMap contains (before lazy initialization):  
+2016-01-20 11:03:38,452 DEBUG Main [main] main 	FootballPlayer false 
+2016-01-20 11:03:38,454 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:03:38,459 DEBUG Main [main] main Initiating not lazy objects 
+2016-01-20 11:03:38,485 DEBUG Main [main] main 		init annotation present in FootballPlayer 
+2016-01-20 11:03:38,486 DEBUG Main [main] main 			initiating FootballPlayer 
+2016-01-20 11:03:38,488 DEBUG Main [main] main 		init annotation present in PianoPlayer 
+2016-01-20 11:03:38,489 DEBUG Main [main] main 			but lazy marker is false 
+2016-01-20 11:03:38,492 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-20 11:03:38,493 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:03:38,497 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:03:38,498 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-20 11:03:38,499 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:03:38,500 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-20 11:28:08,331 DEBUG Main [main] main Annotated classes:  
+2016-01-20 11:28:08,434 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:28:08,435 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-20 11:28:08,460 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:28:08,461 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 11:28:08,462 DEBUG Main [main] main annMap contains (before lazy initialization):  
+2016-01-20 11:28:08,468 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:28:08,469 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:28:08,470 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-20 11:28:08,471 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:28:08,472 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:28:08,473 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-20 11:28:08,475 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:28:08,475 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-20 11:29:29,988 DEBUG Main [main] main Annotated classes:  
+2016-01-20 11:29:30,085 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:29:30,087 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-20 11:29:30,098 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:29:30,099 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 11:29:30,101 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-20 11:29:30,105 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:29:30,106 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:29:30,113 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-20 11:29:30,114 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:29:30,115 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-20 11:32:48,077 DEBUG Main [main] main Annotated classes:  
+2016-01-20 11:32:48,289 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:32:48,290 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-20 11:32:48,305 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:32:48,306 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 11:32:48,309 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-20 11:32:48,310 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:32:48,311 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:32:48,314 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-20 11:32:48,315 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:32:48,322 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-20 11:32:48,323 DEBUG Main [main] main Pilot 
+2016-01-20 11:32:48,326 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:32:48,329 DEBUG Pilot [main] <init> 	Pilot 
+2016-01-20 11:32:48,332 DEBUG Main [main] main false 
+2016-01-20 11:32:48,333 DEBUG Main [main] main true 
+2016-01-20 11:36:50,046 DEBUG Main [main] main Annotated classes:  
+2016-01-20 11:36:50,189 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:36:50,191 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-20 11:36:50,201 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:36:50,202 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 11:36:50,204 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-20 11:36:50,205 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:36:50,214 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:36:50,215 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-20 11:36:50,216 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:36:50,217 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-20 11:36:50,218 DEBUG Main [main] main Pilot 
+2016-01-20 11:36:50,222 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:36:50,223 DEBUG Pilot [main] <init> 	Pilot 
+2016-01-20 11:36:50,227 DEBUG Main [main] main false 
+2016-01-20 11:36:50,228 DEBUG Main [main] main true 
+2016-01-20 11:36:50,229 DEBUG Main [main] main Miner 
+2016-01-20 11:36:50,232 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:36:50,233 DEBUG Main [main] main false 
+2016-01-20 11:36:50,234 DEBUG Main [main] main true 
+2016-01-20 11:38:03,605 DEBUG Main [main] main Annotated classes:  
+2016-01-20 11:38:03,742 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:38:03,743 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-20 11:38:03,766 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:38:03,768 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 11:38:03,772 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-20 11:38:03,773 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:38:03,774 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:38:03,775 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-20 11:38:03,776 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:38:03,776 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-20 11:38:03,777 DEBUG Main [main] main Pilot 
+2016-01-20 11:38:03,781 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:38:03,784 DEBUG Pilot [main] <init> 	Pilot 
+2016-01-20 11:38:03,787 DEBUG Main [main] main false 
+2016-01-20 11:38:03,788 DEBUG Main [main] main true 
+2016-01-20 11:38:03,789 DEBUG Main [main] main Miner 
+2016-01-20 11:38:03,795 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:38:03,796 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 11:38:03,797 DEBUG Main [main] main false 
+2016-01-20 11:38:03,797 DEBUG Main [main] main true 
+2016-01-20 11:38:44,813 DEBUG Main [main] main Annotated classes:  
+2016-01-20 11:38:44,911 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:38:44,913 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 11:38:44,927 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:38:44,928 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-20 11:38:44,929 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:38:44,930 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 11:38:44,933 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-20 11:38:44,934 DEBUG Main [main] main 	Miner true 
+2016-01-20 11:38:44,935 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:38:44,936 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:38:44,937 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-20 11:38:44,938 DEBUG Main [main] main 	Miner true 
+2016-01-20 11:38:44,940 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:38:44,941 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-20 11:38:44,941 DEBUG Main [main] main Pilot 
+2016-01-20 11:38:44,951 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:38:44,952 DEBUG Pilot [main] <init> 	Pilot 
+2016-01-20 11:38:44,956 DEBUG Main [main] main false 
+2016-01-20 11:38:44,957 DEBUG Main [main] main true 
+2016-01-20 11:38:44,958 DEBUG Main [main] main Miner 
+2016-01-20 11:38:44,959 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:38:44,961 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 11:38:44,962 DEBUG Main [main] main false 
+2016-01-20 11:38:44,964 DEBUG Main [main] main true 
+2016-01-20 11:39:55,185 DEBUG Main [main] main Annotated classes:  
+2016-01-20 11:39:55,288 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:39:55,290 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 11:39:55,303 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:39:55,304 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-20 11:39:55,313 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:39:55,315 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 11:39:55,316 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-20 11:39:55,317 DEBUG Main [main] main 	Miner false 
+2016-01-20 11:39:55,318 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:39:55,319 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:39:55,320 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-20 11:39:55,321 DEBUG Main [main] main 	Miner true 
+2016-01-20 11:39:55,324 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:39:55,325 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-20 11:39:55,328 DEBUG Main [main] main Pilot 
+2016-01-20 11:39:55,331 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:39:55,331 DEBUG Pilot [main] <init> 	Pilot 
+2016-01-20 11:39:55,334 DEBUG Main [main] main false 
+2016-01-20 11:39:55,335 DEBUG Main [main] main true 
+2016-01-20 11:39:55,336 DEBUG Main [main] main Miner 
+2016-01-20 11:39:55,337 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:39:55,338 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 11:39:55,339 DEBUG Main [main] main false 
+2016-01-20 11:39:55,339 DEBUG Main [main] main true 
+2016-01-20 11:40:24,439 DEBUG Main [main] main Annotated classes:  
+2016-01-20 11:40:24,566 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:40:24,567 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 11:40:24,582 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:40:24,586 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-20 11:40:24,589 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:40:24,590 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 11:40:24,593 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-20 11:40:24,595 DEBUG Main [main] main 	Miner false 
+2016-01-20 11:40:24,596 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:40:24,597 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:40:24,597 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-20 11:40:24,598 DEBUG Main [main] main 	Miner true 
+2016-01-20 11:40:24,601 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:40:24,602 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-20 11:41:33,746 DEBUG Main [main] main Annotated classes:  
+2016-01-20 11:41:33,833 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:41:33,834 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 11:41:33,844 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:41:33,845 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-20 11:41:33,848 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:41:33,851 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 11:41:33,861 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-20 11:41:33,863 DEBUG Main [main] main 	Miner false 
+2016-01-20 11:41:33,864 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:41:33,868 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:41:33,868 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-20 11:41:33,869 DEBUG Main [main] main 	Miner true 
+2016-01-20 11:41:33,872 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:41:33,872 DEBUG Main [main] main 	PianoPlayer true 
+2016-01-20 11:44:46,082 DEBUG Main [main] main filling map with annotated classes:  
+2016-01-20 11:44:46,174 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:44:46,176 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 11:44:46,188 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:44:46,189 DEBUG FootballPlayer [main] <init> 	Football 
+2016-01-20 11:44:46,191 DEBUG Person [main] <init> Person: новый экземпляр 
+2016-01-20 11:44:46,192 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 11:44:46,194 DEBUG Main [main] main annMap contains (after lazy initialization):  
+2016-01-20 11:44:46,195 DEBUG Main [main] main 	Miner false 
+2016-01-20 11:44:46,196 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:44:46,196 DEBUG Main [main] main 	PianoPlayer false 
+2016-01-20 11:44:46,197 DEBUG Main [main] main getting objects and printing they init status 
+2016-01-20 11:44:46,198 DEBUG Main [main] main 	Miner true 
+2016-01-20 11:44:46,200 DEBUG Main [main] main 	FootballPlayer true 
+2016-01-20 11:44:46,200 DEBUG Main [main] main 	PianoPlayer true 

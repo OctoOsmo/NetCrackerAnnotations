@@ -13,16 +13,10 @@ public class FootballPlayer extends Person {
         log.debug("\tFootball");
     }
 
-    boolean initFlag = false;
-
     @Initializer(lazy = false)
     @Override
     public void init() {
         initFlag = true;
     }
 
-    @Override
-    public boolean isInited() {
-        return initFlag;
-    }
 }
