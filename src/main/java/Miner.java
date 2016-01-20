@@ -15,7 +15,7 @@ public class Miner extends Person {
 
     private boolean initFlag2 = false;
 
-    @Initializer(lazy = false)
+    @Initializer
     @Override
     public void init() {
         log.debug("\t\tMiner initializer 1");

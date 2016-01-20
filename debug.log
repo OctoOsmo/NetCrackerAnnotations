@@ -2494,3 +2494,19 @@ Storage content (only persons):
 2016-01-20 16:26:06,835 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
 2016-01-20 16:26:06,836 DEBUG PianoPlayer [main] init 		Piano player initializer 
 2016-01-20 16:26:06,837 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-20 16:35:59,594 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-20 16:35:59,668 DEBUG Person [main] <init> Person: new instance 
+2016-01-20 16:35:59,669 DEBUG Miner [main] <init> 	Miner 
+2016-01-20 16:35:59,678 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-20 16:35:59,679 DEBUG Person [main] <init> Person: new instance 
+2016-01-20 16:35:59,680 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-20 16:35:59,680 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-20 16:35:59,682 DEBUG Person [main] <init> Person: new instance 
+2016-01-20 16:35:59,683 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-20 16:35:59,684 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-20 16:35:59,685 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-20 16:35:59,686 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-20 16:35:59,688 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-20 16:35:59,689 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-20 16:35:59,690 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 

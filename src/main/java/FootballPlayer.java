@@ -13,7 +13,7 @@ public class FootballPlayer extends Person {
         log.debug("\tFootball player");
     }
 
-    @Initializer(lazy = false)
+    @Initializer
     @Override
     public void init() {
         log.debug("\t\tFootball player initializer");
