@@ -4,10 +4,7 @@ import org.apache.logging.log4j.Logger;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * Created by al on 20.01.2016.
@@ -16,7 +13,7 @@ public class ComponentStorage {
     private static final Logger log = LogManager.getLogger(ComponentStorage.class);
 
     private HashMap<String, Object> objects = new HashMap<>();
-    private Map<String, Boolean> objectsStatus = new HashMap<>();
+    private Set<String > objectsStatusSet = new HashSet<>();
 
     public static List<Method> getInitializers(final Class<?> type){
 
@@ -60,15 +57,14 @@ public class ComponentStorage {
         List<Method> inits = getInitializers(obj.getClass());
         initialize(inits, obj, false);
         objects.put(name, obj);
-        objectsStatus.put(name, false);
     }
 
     public Object getObject(String name){
         Object obj = objects.get(name);
         List<Method> inits = getInitializers(obj.getClass());
-        if (objectsStatus.get(name) == false) {
+        if(!objectsStatusSet.contains(name)){
             initialize(inits, obj, true);
-            objectsStatus.put(name, true);
+            objectsStatusSet.add(name);
         }
         return obj;
     }

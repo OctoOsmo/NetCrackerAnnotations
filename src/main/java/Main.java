@@ -26,5 +26,8 @@ public class Main {
         }
 
         storage.logPersons();
+        storage.logPersons();
+        storage.logPersons();
+        storage.logPersons();
     }
 }
