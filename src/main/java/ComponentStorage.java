@@ -16,6 +16,7 @@ public class ComponentStorage {
     private static final Logger log = LogManager.getLogger(ComponentStorage.class);
 
     private HashMap<String, Object> objects = new HashMap<>();
+    private Map<String, Boolean> objectsStatus = new HashMap<>();
 
     public static List<Method> getInitializers(final Class<?> type){
 
@@ -59,12 +60,16 @@ public class ComponentStorage {
         List<Method> inits = getInitializers(obj.getClass());
         initialize(inits, obj, false);
         objects.put(name, obj);
+        objectsStatus.put(name, false);
     }
 
     public Object getObject(String name){
         Object obj = objects.get(name);
         List<Method> inits = getInitializers(obj.getClass());
-        initialize(inits, obj, true);
+        if (objectsStatus.get(name) == false) {
+            initialize(inits, obj, true);
+            objectsStatus.put(name, true);
+        }
         return obj;
     }
 }

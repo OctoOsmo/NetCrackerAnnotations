@@ -2510,3 +2510,1460 @@ Storage content (only persons):
 2016-01-20 16:35:59,688 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
 2016-01-20 16:35:59,689 DEBUG PianoPlayer [main] init 		Piano player initializer 
 2016-01-20 16:35:59,690 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:06:51,725 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 21:06:51,785 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:06:51,785 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 21:06:51,792 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 21:06:51,793 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:06:51,793 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 21:06:51,794 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 21:06:51,795 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:06:51,796 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 21:06:51,797 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:06:51,798 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:06:51,800 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:06:51,800 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:06:51,802 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:06:51,803 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:07:37,250 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 21:07:37,319 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:07:37,319 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 21:07:37,324 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 21:07:37,325 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:07:37,325 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 21:07:37,326 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 21:07:37,327 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:07:37,328 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 21:07:37,329 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:07:37,330 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:07:37,331 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:07:37,331 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:07:37,332 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:07:37,332 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:07:37,333 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:07:37,334 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:07:37,334 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:07:37,335 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:07:37,335 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:07:37,336 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:07:37,337 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:07:37,337 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:07:37,338 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:07:37,338 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:07:37,340 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:07:37,340 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:07:37,341 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:07:37,341 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:07:37,342 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:07:37,342 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:07:37,343 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:07:37,343 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:07:37,344 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:07:37,345 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:07:37,346 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:07:37,346 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:07:37,348 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:07:37,348 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:07:37,349 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:07:37,349 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:07:37,350 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:07:37,353 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:07:37,353 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:07:37,354 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:07:37,354 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:07:37,355 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:07:37,355 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:07:37,356 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:07:37,357 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:07:37,358 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:07:37,358 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:07:37,362 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:07:37,363 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:07:37,363 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:07:37,364 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:07:37,365 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:07:37,365 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:07:37,366 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:07:37,366 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:07:37,367 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:07:37,368 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:07:37,368 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:07:37,369 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:07:37,370 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:07:37,370 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:07:37,371 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:07:37,371 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:07:37,372 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:09:55,780 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 21:09:55,854 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:09:55,855 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 21:09:55,860 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 21:09:55,861 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:09:55,862 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 21:09:55,863 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 21:09:55,864 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:09:55,865 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 21:09:55,866 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:09:55,866 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:09:55,867 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:09:55,868 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:09:55,868 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:09:55,873 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:09:55,876 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:09:55,876 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:09:55,877 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:09:55,877 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:09:55,878 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:09:55,878 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:09:55,879 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:09:55,879 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:09:55,880 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:09:55,880 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:09:55,881 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:09:55,882 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:09:55,882 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:09:55,884 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:09:55,885 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:09:55,885 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:09:55,886 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:09:55,886 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:09:55,886 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:09:55,887 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:09:55,887 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:09:55,888 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:09:55,888 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:09:55,889 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:09:55,890 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:09:55,892 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:09:55,893 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:09:55,894 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:09:55,894 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:09:55,895 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:09:55,895 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:09:55,896 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:09:55,896 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:09:55,897 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:09:55,898 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:09:55,898 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:09:55,899 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:09:55,899 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:09:55,900 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:09:55,900 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:09:55,901 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:09:55,901 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:09:55,902 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:09:55,905 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:09:55,905 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:09:55,906 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:09:55,906 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:09:55,907 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:09:55,907 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:09:55,908 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:09:55,918 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:09:55,918 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:09:55,919 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:09:55,919 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:10:44,257 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 21:10:44,307 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:10:44,308 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 21:10:44,312 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 21:10:44,313 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:10:44,314 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 21:10:44,315 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 21:10:44,316 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:10:44,317 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 21:10:44,318 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:10:44,319 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:10:44,320 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:10:44,320 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:10:44,321 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:10:44,322 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:10:44,322 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:10:44,323 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:10:44,324 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:10:44,324 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:10:44,325 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:10:44,326 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:10:44,326 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:10:44,328 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:10:44,328 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:10:44,329 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:10:44,329 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:10:44,330 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:10:44,330 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:10:44,331 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:10:44,331 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:10:44,332 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:10:44,332 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:10:44,333 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:10:44,334 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:10:44,334 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:10:44,335 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:10:44,335 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:10:44,337 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:10:44,337 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:10:44,338 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:10:44,338 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:10:44,339 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:10:44,339 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:10:44,340 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:10:44,340 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:10:44,341 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:10:44,341 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:10:44,342 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:10:44,342 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:10:44,343 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:10:44,343 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:10:44,344 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:10:44,344 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:10:44,345 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:10:44,346 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:10:44,346 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:10:44,347 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:10:44,347 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:10:44,353 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:10:44,353 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:10:44,354 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:10:44,354 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:10:44,355 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:10:44,355 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:10:44,356 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:10:44,357 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:10:44,363 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:10:44,366 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:10:44,366 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:11:17,151 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 21:11:17,231 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:11:17,232 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 21:11:17,239 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 21:11:17,240 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:11:17,241 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 21:11:17,247 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 21:11:17,248 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:11:17,249 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 21:11:17,250 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:11:17,251 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:11:17,252 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:11:17,252 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:11:17,253 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:11:17,254 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:11:17,255 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:11:17,256 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:11:17,256 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:11:17,257 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:11:17,257 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:11:17,258 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:11:17,259 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:11:17,259 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:11:17,260 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:11:17,260 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:11:17,261 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:11:17,261 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:11:17,262 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:11:17,262 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:11:17,263 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:11:17,263 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:11:17,264 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:11:17,264 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:11:17,265 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:11:17,265 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:11:17,265 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:11:17,266 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:11:17,267 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:11:17,268 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:11:17,268 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:11:17,269 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:11:17,269 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:11:17,270 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:11:17,271 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:11:17,272 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:11:17,273 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:11:17,273 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:11:17,274 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:11:17,274 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:11:17,275 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:11:17,275 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:11:17,276 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:11:17,276 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:11:17,277 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:11:17,277 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:11:17,278 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:11:17,278 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:11:17,278 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:11:17,280 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:11:17,280 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:11:17,281 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:11:17,281 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:11:17,282 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:11:17,282 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:11:17,283 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:11:17,284 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:11:17,284 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:11:17,285 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:11:17,285 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:12:00,053 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 21:12:00,105 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:12:00,106 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 21:12:00,110 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 21:12:00,111 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:12:00,112 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 21:12:00,113 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 21:12:00,114 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:12:00,116 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 21:12:00,117 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:12:00,118 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,119 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:12:00,119 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:12:00,120 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,120 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:12:00,122 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,123 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:12:00,124 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:12:00,125 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:12:00,125 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,126 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:12:00,126 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:12:00,127 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,127 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:12:00,128 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,129 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:12:00,129 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:12:00,131 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:12:00,131 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,132 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:12:00,133 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:12:00,133 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,133 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:12:00,134 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,134 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:12:00,135 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:12:00,135 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:12:00,137 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,137 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:12:00,138 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:12:00,138 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,139 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:12:00,139 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,139 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:12:00,140 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:12:00,140 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:12:00,141 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,142 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:12:00,142 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:12:00,143 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,143 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:12:00,144 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,144 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:12:00,145 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:12:00,145 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:12:00,146 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,147 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:12:00,147 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:12:00,148 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,149 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:12:00,150 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,151 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:12:00,152 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:12:00,152 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:12:00,153 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,154 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:12:00,154 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:12:00,154 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,155 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:12:00,155 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,156 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:12:00,157 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:12:00,158 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:12:00,158 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,159 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:12:00,160 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:12:00,161 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,161 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:12:00,162 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,162 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:12:00,163 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:12:00,164 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:12:00,164 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,170 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:12:00,170 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:12:00,171 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,172 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:12:00,172 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,173 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:12:00,174 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:12:00,174 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:12:00,175 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,175 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:12:00,176 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:12:00,176 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,177 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:12:00,177 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:12:00,178 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:12:00,178 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:15:11,816 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 21:15:11,873 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:15:11,874 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 21:15:11,879 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 21:15:11,880 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:15:11,881 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 21:15:11,882 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 21:15:11,882 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:15:11,883 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 21:15:11,883 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:15:11,884 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,884 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:15:11,885 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,885 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:15:11,886 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,886 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,887 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:15:11,887 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,888 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:15:11,888 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,889 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:15:11,889 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:15:11,890 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,890 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:15:11,891 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,891 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:15:11,892 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,892 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,893 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:15:11,893 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,893 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:15:11,893 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,894 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:15:11,894 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:15:11,895 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,895 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:15:11,896 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,896 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:15:11,897 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,897 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,898 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:15:11,898 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,898 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:15:11,899 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,899 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:15:11,900 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:15:11,900 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,901 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:15:11,901 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,902 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:15:11,902 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,902 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,902 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:15:11,903 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,903 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:15:11,903 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,904 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:15:11,904 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:15:11,905 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,906 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:15:11,907 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,908 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:15:11,908 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,909 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,910 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:15:11,910 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,911 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:15:11,911 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,912 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:15:11,912 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:15:11,912 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,913 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:15:11,914 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,915 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:15:11,916 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,916 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,917 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:15:11,917 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,918 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:15:11,918 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,919 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:15:11,919 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:15:11,920 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,925 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:15:11,925 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,926 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:15:11,926 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,927 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,927 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:15:11,928 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,928 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:15:11,929 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,930 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:15:11,930 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:15:11,931 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,931 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:15:11,932 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,932 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:15:11,932 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,932 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,933 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:15:11,933 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,934 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:15:11,935 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,935 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:15:11,936 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:15:11,936 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,937 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:15:11,937 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,937 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:15:11,938 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,939 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,939 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:15:11,939 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,940 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:15:11,940 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,941 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:15:11,941 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:15:11,941 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,942 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:15:11,942 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,942 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:15:11,943 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,943 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,944 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:15:11,944 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:15:11,945 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:15:11,945 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:15:11,945 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:58:30,299 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 21:58:30,379 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:58:30,380 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 21:58:30,386 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 21:58:30,387 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:58:30,388 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 21:58:30,388 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 21:58:30,389 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 21:58:30,390 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 21:58:30,390 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:58:30,391 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,392 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:58:30,392 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,393 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:58:30,394 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,394 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,395 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:58:30,395 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,395 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:58:30,396 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,396 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:58:30,396 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:58:30,397 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,397 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:58:30,397 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,398 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:58:30,398 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,399 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,399 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:58:30,399 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,399 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:58:30,400 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,400 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:58:30,400 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:58:30,401 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,401 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:58:30,401 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,402 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:58:30,402 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,402 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,403 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:58:30,403 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,403 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:58:30,403 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,404 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:58:30,404 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:58:30,404 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,405 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:58:30,405 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,405 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:58:30,406 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,406 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,406 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:58:30,407 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,407 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:58:30,407 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,407 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:58:30,408 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:58:30,408 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,408 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:58:30,411 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,411 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:58:30,411 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,412 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,412 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:58:30,413 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,414 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:58:30,414 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,414 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:58:30,416 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:58:30,416 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,416 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:58:30,419 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,420 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:58:30,420 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,420 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,421 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:58:30,421 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,421 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:58:30,422 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,422 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:58:30,424 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:58:30,424 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,428 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:58:30,428 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,429 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:58:30,430 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,431 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,431 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:58:30,432 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,432 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:58:30,432 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,433 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:58:30,433 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:58:30,433 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,434 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:58:30,434 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,434 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:58:30,434 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,435 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,435 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:58:30,435 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,435 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:58:30,436 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,436 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:58:30,436 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:58:30,436 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,437 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:58:30,437 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,437 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:58:30,438 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,438 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,439 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:58:30,439 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,439 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:58:30,440 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,440 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 21:58:30,440 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 21:58:30,441 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,441 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 21:58:30,441 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,442 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 21:58:30,442 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,443 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,444 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 21:58:30,444 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 21:58:30,444 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 21:58:30,445 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false 
+2016-01-21 21:58:30,445 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:07,286 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 22:00:07,325 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:00:07,325 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 22:00:07,329 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 22:00:07,329 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:00:07,330 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 22:00:07,330 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 22:00:07,331 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:00:07,331 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 22:00:07,331 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:07,332 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,332 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:07,332 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,333 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:07,333 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,333 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,334 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:07,334 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,335 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:07,335 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,335 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:07,336 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:07,336 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,337 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:07,337 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,338 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:07,338 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,338 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,338 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:07,339 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,339 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:07,339 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,339 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:07,339 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:07,340 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,340 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:07,340 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,340 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:07,341 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,341 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,341 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:07,341 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,342 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:07,342 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,342 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:07,342 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:07,342 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,343 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:07,343 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,343 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:07,344 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,344 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,344 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:07,344 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,345 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:07,345 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,345 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:07,346 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:07,346 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,347 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:07,348 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,349 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:07,349 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,349 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,350 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:07,351 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,351 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:07,351 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,351 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:07,352 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:07,352 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,353 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:07,353 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,353 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:07,353 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,354 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,354 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:07,354 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,355 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:07,355 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,355 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:07,356 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:07,356 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,359 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:07,360 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,360 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:07,360 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,361 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,361 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:07,361 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,361 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:07,362 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,362 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:07,362 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:07,363 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,363 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:07,363 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,363 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:07,364 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,364 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,364 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:07,364 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,364 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:07,365 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,365 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:07,365 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:07,365 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,365 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:07,365 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,366 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:07,366 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,366 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,367 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:07,367 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,367 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:07,367 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,368 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:07,368 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:07,368 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,368 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:07,369 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,369 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:07,369 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,370 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,370 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:07,370 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:07,371 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:07,371 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:07,371 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:24,689 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 22:00:24,726 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:00:24,727 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 22:00:24,730 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 22:00:24,731 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:00:24,731 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 22:00:24,732 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 22:00:24,733 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:00:24,733 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 22:00:24,734 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:24,734 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,735 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:24,735 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,736 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:24,736 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,736 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,737 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:24,737 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,738 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:24,738 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,738 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:24,739 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:24,739 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,739 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:24,740 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,740 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:24,741 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,741 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,741 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:24,742 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,742 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:24,742 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,743 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:24,743 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:24,743 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,744 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:24,744 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,744 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:24,745 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,745 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,745 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:24,746 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,746 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:24,746 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,747 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:24,747 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:24,747 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,748 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:24,748 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,748 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:24,748 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,748 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,749 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:24,749 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,749 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:24,749 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,749 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:24,750 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:24,750 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,750 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:24,750 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,751 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:24,751 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,751 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,752 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:24,752 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,753 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:24,753 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,753 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:24,754 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:24,754 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,754 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:24,755 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,755 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:24,755 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,756 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,756 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:24,756 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,757 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:24,757 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,757 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:24,757 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:24,758 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,762 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:24,762 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,762 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:24,766 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,766 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,766 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:24,767 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,768 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:24,768 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,769 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:24,769 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:24,769 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,770 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:24,772 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,772 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:24,773 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,773 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,773 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:24,773 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,773 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:24,773 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,774 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:24,774 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:24,774 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,774 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:24,774 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,774 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:24,775 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,775 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,775 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:24,776 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,776 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:24,776 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,776 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:00:24,777 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:00:24,777 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,779 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:00:24,779 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,780 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:00:24,780 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,780 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,781 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:00:24,781 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = false 
+2016-01-21 22:00:24,781 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:00:24,782 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = false flag = true 
+2016-01-21 22:00:24,782 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:15:54,068 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 22:15:54,100 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:15:54,101 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 22:15:54,105 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 22:15:54,106 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:15:54,106 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 22:15:54,107 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 22:15:54,108 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:15:54,108 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 22:15:54,109 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:15:54,109 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,110 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:15:54,110 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,111 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:15:54,111 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,111 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,112 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:15:54,112 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,113 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:15:54,113 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,113 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:15:54,114 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:15:54,114 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,115 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:15:54,115 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,115 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:15:54,115 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,116 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,116 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:15:54,117 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,117 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:15:54,117 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,118 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:15:54,118 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:15:54,119 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,119 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:15:54,119 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,120 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:15:54,120 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,120 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,121 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:15:54,121 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,121 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:15:54,121 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,121 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:15:54,122 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:15:54,122 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,122 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:15:54,122 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,123 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:15:54,123 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,123 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,123 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:15:54,124 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,124 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:15:54,124 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,125 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:15:54,125 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:15:54,125 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,125 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:15:54,126 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,126 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:15:54,126 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,127 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,127 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:15:54,128 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,128 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:15:54,128 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,129 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:15:54,129 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:15:54,129 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,130 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:15:54,130 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,130 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:15:54,131 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,131 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,131 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:15:54,132 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,132 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:15:54,132 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,133 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:15:54,133 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:15:54,133 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,137 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:15:54,138 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,138 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:15:54,141 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,141 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,142 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:15:54,142 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,142 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:15:54,143 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,143 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:15:54,143 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:15:54,144 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,144 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:15:54,144 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,145 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:15:54,145 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,145 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,146 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:15:54,146 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,147 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:15:54,147 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,147 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:15:54,147 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:15:54,148 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,148 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:15:54,148 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,149 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:15:54,149 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,150 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,150 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:15:54,150 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,150 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:15:54,151 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,151 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:15:54,151 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:15:54,152 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,152 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:15:54,152 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,152 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:15:54,153 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,153 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,153 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:15:54,154 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:15:54,154 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:15:54,154 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:15:54,155 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:17:58,956 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 22:17:58,982 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:17:58,982 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 22:17:58,985 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 22:17:58,985 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:17:58,986 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 22:17:58,986 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 22:17:58,986 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:17:58,987 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 22:17:58,987 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:17:58,987 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:58,988 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:17:58,988 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:58,988 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:17:58,989 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:58,989 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:58,989 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:17:58,990 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:58,990 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:17:58,991 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:58,991 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:17:58,991 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:17:58,991 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:58,992 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:17:58,992 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:58,993 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:17:58,993 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:58,993 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:58,994 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:17:58,994 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:58,994 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:17:58,994 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:58,994 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:17:58,995 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:17:58,995 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:58,996 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:17:58,996 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:58,996 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:17:58,996 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:58,997 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:58,997 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:17:58,997 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:58,997 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:17:58,997 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:58,998 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:17:58,998 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:17:58,998 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:58,998 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:17:58,999 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:58,999 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:17:58,999 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:58,999 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:58,999 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:17:59,000 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,000 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:17:59,000 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,000 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:17:59,001 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:17:59,001 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,001 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:17:59,002 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,002 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:17:59,002 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,002 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,003 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:17:59,003 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,004 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:17:59,004 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,004 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:17:59,005 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:17:59,005 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,005 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:17:59,005 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,005 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:17:59,006 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,006 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,006 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:17:59,006 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,007 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:17:59,007 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,007 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:17:59,007 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:17:59,008 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,008 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:17:59,008 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,009 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:17:59,009 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,009 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,010 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:17:59,010 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,011 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:17:59,011 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,011 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:17:59,012 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:17:59,012 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,012 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:17:59,013 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,013 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:17:59,013 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,014 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,014 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:17:59,014 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,015 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:17:59,015 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,018 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:17:59,018 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:17:59,019 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,019 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:17:59,019 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,020 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:17:59,020 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,020 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,021 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:17:59,021 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,021 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:17:59,022 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,022 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:17:59,022 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:17:59,025 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,026 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:17:59,026 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,026 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:17:59,027 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,027 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,027 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:17:59,028 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:17:59,028 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:17:59,028 DEBUG ComponentStorage [main] getObject After objectsStatus.get(name) = 0 flag = 1 
+2016-01-21 22:17:59,029 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:24:38,561 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 22:24:38,604 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:24:38,605 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 22:24:38,617 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 22:24:38,618 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:24:38,618 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 22:24:38,619 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 22:24:38,620 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:24:38,620 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 22:24:38,621 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:28:21,806 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 22:28:21,839 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:28:21,839 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 22:28:21,842 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 22:28:21,843 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:28:21,843 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 22:28:21,844 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 22:28:21,845 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:28:21,845 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 22:28:21,846 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:28:21,847 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,847 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: false 
+2016-01-21 22:28:21,848 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,848 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:28:21,848 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,849 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: false 
+2016-01-21 22:28:21,849 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:28:21,850 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,850 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: false 
+2016-01-21 22:28:21,850 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,851 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:28:21,851 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,851 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: false 
+2016-01-21 22:28:21,852 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:28:21,852 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,852 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: false 
+2016-01-21 22:28:21,853 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,853 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:28:21,853 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,854 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: false 
+2016-01-21 22:28:21,854 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:28:21,854 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,855 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: false 
+2016-01-21 22:28:21,855 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,855 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:28:21,856 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,856 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: false 
+2016-01-21 22:28:21,856 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:28:21,857 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,857 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: false 
+2016-01-21 22:28:21,857 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,858 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:28:21,858 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,859 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: false 
+2016-01-21 22:28:21,859 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:28:21,859 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,859 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: false 
+2016-01-21 22:28:21,860 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,860 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:28:21,860 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,861 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: false 
+2016-01-21 22:28:21,861 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:28:21,861 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,861 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: false 
+2016-01-21 22:28:21,862 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,862 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:28:21,862 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,863 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: false 
+2016-01-21 22:28:21,863 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:28:21,863 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,864 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: false 
+2016-01-21 22:28:21,864 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,864 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:28:21,864 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,865 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: false 
+2016-01-21 22:28:21,865 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:28:21,865 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,866 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: false 
+2016-01-21 22:28:21,866 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,866 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:28:21,866 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,867 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: false 
+2016-01-21 22:28:21,867 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:28:21,867 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,868 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: false 
+2016-01-21 22:28:21,868 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,868 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:28:21,868 DEBUG ComponentStorage [main] getObject objectsStatus.get(name) = 0 
+2016-01-21 22:28:21,869 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: false 
+2016-01-21 22:30:34,332 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 22:30:34,366 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:30:34,367 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 22:30:34,371 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 22:30:34,371 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:30:34,372 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 22:30:34,378 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 22:30:34,379 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:30:34,380 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 22:30:34,380 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:30:34,381 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:30:34,381 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:30:34,382 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:30:34,382 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:30:34,382 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:30:34,383 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:30:34,383 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:30:34,383 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:30:34,384 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:30:34,384 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:30:34,384 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:30:34,385 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:30:34,385 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:30:34,385 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:30:34,386 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:30:34,386 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:30:34,386 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:30:34,387 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:30:34,387 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:30:34,387 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:30:34,388 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:30:34,388 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:30:34,388 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:30:34,388 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:30:34,389 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:30:34,389 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:30:34,389 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:30:34,390 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:30:34,390 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:30:34,390 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:30:34,390 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:30:34,391 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:30:34,391 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:30:34,391 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:30:34,391 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:30:34,392 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:30:34,392 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:30:34,392 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:30:34,393 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:30:34,393 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:30:34,393 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:36:47,462 DEBUG Main [main] main Filling map with annotated classes:  
+2016-01-21 22:36:47,498 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:36:47,499 DEBUG Miner [main] <init> 	Miner 
+2016-01-21 22:36:47,508 DEBUG Miner [main] init 		Miner initializer 1 
+2016-01-21 22:36:47,510 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:36:47,512 DEBUG FootballPlayer [main] <init> 	Football player 
+2016-01-21 22:36:47,514 DEBUG FootballPlayer [main] init 		Football player initializer 
+2016-01-21 22:36:47,514 DEBUG Person [main] <init> Person: new instance 
+2016-01-21 22:36:47,515 DEBUG PianoPlayer [main] <init> 	PianoPlayer 
+2016-01-21 22:36:47,518 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:36:47,518 DEBUG Miner [main] initTwo 		Miner initializer 2 (the private one) 
+2016-01-21 22:36:47,519 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:36:47,519 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:36:47,519 DEBUG PianoPlayer [main] init 		Piano player initializer 
+2016-01-21 22:36:47,520 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
+2016-01-21 22:36:47,520 DEBUG ComponentStorage [main] logPersons 
+Storage content (only persons): 
+2016-01-21 22:36:47,521 DEBUG ComponentStorage [main] logPersons 	Miner is initialized: true 
+2016-01-21 22:36:47,521 DEBUG ComponentStorage [main] logPersons 	FootballPlayer is initialized: true 
+2016-01-21 22:36:47,521 DEBUG ComponentStorage [main] logPersons 	PianoPlayer is initialized: true 
